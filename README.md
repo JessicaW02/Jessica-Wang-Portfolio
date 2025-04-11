@@ -1,11 +1,12 @@
 # Jessica-Wang-Portfolio
-# 👋 Hi, I'm Jessica Wang
 
-Welcome to my data science portfolio! I'm a graduate student at the University of Chicago, with a background in Economics and Mathematics. I’m passionate about using data to solve real-world business problems, especially in the fields of:
+# Thank you for stopping by and taking the time to explore my data science portfolio!
 
-- 📊 Financial Risk Analysis  
-- 📈 Investment Strategy and Portfolio Optimization  
-- 💡 Predictive Modeling for Business Decisions  
+My name is Jessica (Diya) Wang. I'm a graduate student at the University of Chicago, with a background in Economics and Mathematics. I’m passionate about using data to solve real-world business problems, especially in the fields of:
+
+- Financial Risk Analysis  
+- Investment Strategy and Portfolio Optimization  
+- Predictive Modeling for Business Decisions  
 
 ---
 
@@ -28,8 +29,7 @@ Welcome to my data science portfolio! I'm a graduate student at the University o
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Let's Connect 😊
 My LinkedIn: https://www.linkedin.com/in/diya-jessica-wang/
 
 Feel free to check out my projects or reach out for collaboration and opportunities!
-
