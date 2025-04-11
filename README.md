@@ -1,8 +1,8 @@
 # Jessica-Wang-Portfolio
 
-# Thank you for stopping by and taking the time to explore my data science portfolio!
+## Thank you for stopping by and taking the time to explore my portfolio!
 
-My name is Jessica (Diya) Wang. I'm a graduate student at the University of Chicago, with a background in Economics and Mathematics. I’m passionate about using data to solve real-world business problems, especially in the fields of:
+My name is Jessica (Diya) Wang. I'm a graduate student at the University of Chicago currently, with a background in Economics and Mathematics. I’m passionate about using data to solve real-world business problems, especially in the fields of:
 
 - Financial Risk Analysis  
 - Investment Strategy and Portfolio Optimization  
@@ -12,8 +12,8 @@ My name is Jessica (Diya) Wang. I'm a graduate student at the University of Chic
 
 ## About Me
 
-- 🎓 Master's in Applied Data Science @ UChicago  
-- 🧮 Dual Bachelor’s degrees in Economics & Mathematics  
+- 🎓 Bachelor degree in Economics & Mathematics @ University of Washington
+- 📚 Master degree in Applied Data Science @ University of Chicago  
 - 🔍 Interested in risk modeling, time series forecasting, and data-driven business insights  
 - 🛠 Tools I use: **Python**, **SQL**, **Tableau**, **scikit-learn**, **Pandas**, **AWS Athena**
 
